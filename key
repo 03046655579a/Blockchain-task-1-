@@ -1,0 +1,9 @@
+purse Address mniuXQargD6apYq8sY7irM7NxC2vMmuZZq
+purse privkey cNXPtMLn6ZB4n6mZ4WZwTThho1Fa48UemmZY1ZsRN6Kh4qnMMFVe
+owner Address mtDqCrgAooNh7b8azi58WDmXmohYLTVf39
+owner privkey cVWmgoaL1VDNirkSs344F26pkuayuwfT6Q9FutYXUQwhEP7icxNi
+
+
+
+req.order.Status == "Available" && req.order.quantity >= quantity && 
+       req.order.orderId == orderId
